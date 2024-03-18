@@ -1,29 +1,14 @@
-# vuePrj
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## FIRST YOY NEED INSTALL THE NODE_MODULES PACKAGE 
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### COMPILE AND HOT-RELOAD FOR DEVELOPMENT AND VIEW THE PROJECT
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+BY EDVARD KHACHATRYAN SAHAKYAN
