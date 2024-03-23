@@ -15,8 +15,14 @@ npm run dev
 ### Do not forget, upload the data from books.csv. The URL for this kaggel is in 04.4_Data_import_Dev_Tools_API... 
 ### just like the ingest pipeline and mapping steps
 
+<hr>
+
 ### Finally I provide you with the elasticsearch.md where you will find the templates to test my project
 
+<hr>
+
 ### In the folde "ONLY_VUE" You can found the same project but only with VUE and VITE 
+
+<hr>
 
 BY EDVARD KHACHATRYAN SAHAKYAN
