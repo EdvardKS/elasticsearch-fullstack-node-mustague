@@ -10,6 +10,8 @@ npm install
 npm run dev
 ```
 
+<hr>
+
 ### Do not forget, upload the data from books.csv. The URL for this kaggel is in 04.4_Data_import_Dev_Tools_API... 
 ### just like the ingest pipeline and mapping steps
 
